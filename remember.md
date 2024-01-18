@@ -137,7 +137,8 @@ fun Greeting() {
 MutableState의 구조 분해 구문을 사용하면 다음과 같이 사용할 수도 있습니다.
 
 ![](https://postfiles.pstatic.net/MjAyNDAxMThfNTcg/MDAxNzA1NTEyMTUwODM4.H5ydVJzaVdGb38JS3364Q5hZoz6bEIhRbDIhBwHsIIAg.fRJR2zR7uz5I593g6GmhAz0jMtZMxRMvTJqMgM50GiAg.PNG.pck4949/image.png?type=w773)
-component1( ): MutableState 내부의 값을 나타내는 value를 반환 
+<br>
+component1( ): MutableState 내부의 값을 나타내는 value를 반환<br>
 
 componetn2( ): 새로운 값이 들어왔을 때 value 업데이트
 
@@ -239,30 +240,30 @@ inline fun <T> remember(
 
 
 ## 참고
-Jetpack Compose의 상태
+Jetpack Compose의 상태<br>
 <https://developer.android.com/codelabs/jetpack-compose-state?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-state#4>
 
-Jetpack Compose 기초
+Jetpack Compose 기초<br>
 <https://developer.android.com/codelabs/jetpack-compose-basics?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics#6>
 
-Compose state of mind
+Compose state of mind<br>
 <https://youtu.be/rmv2ug-wW4U>
 
-remember 도장깨기
+remember 도장깨기<br>
 <https://blog.onebone.me/post/jetpack-compose-remember/>
 
-Delegated properties
+Delegated properties<br>
 <https://kotlinlang.org/docs/delegated-properties.html>
 
 ## 나중에 볼 것들
-Under the hood of Jetpack Compose
+Under the hood of Jetpack Compose<br>
 <https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd>
 
-Compose 생명주기
+Compose 생명주기<br>
 <https://developer.android.com/jetpack/compose/lifecycle?hl=ko>
 
-Compose 단계
+Compose 단계<br>
 <https://developer.android.com/jetpack/compose/phases?hl=ko#phase3-drawing>
 
-Scoped recomposition in Jetpack Compose
+Scoped recomposition in Jetpack Compose<br>
 <https://dev.to/zachklipp/scoped-recomposition-jetpack-compose-what-happens-when-state-changes-l78>
