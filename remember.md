@@ -267,3 +267,6 @@ Compose 단계<br>
 
 Scoped recomposition in Jetpack Compose<br>
 <https://dev.to/zachklipp/scoped-recomposition-jetpack-compose-what-happens-when-state-changes-l78>
+
+Jetpack Compose 내부<br>
+<https://jorgecastillo.dev/book/>
