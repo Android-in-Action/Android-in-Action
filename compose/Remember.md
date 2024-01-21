@@ -1,7 +1,3 @@
-블로그 링크<br>
-<https://blog.naver.com/pck4949/223324681367>
-
-
 # (Compose) MutableState, State, remember
 
 
