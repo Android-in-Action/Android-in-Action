@@ -42,6 +42,8 @@ fun ArtistCard(/*...*/) {
 ```
 
 ![](https://developer.android.com/static/images/jetpack/compose/layout-padding-clickable.gif?hl=ko)
+
+
 위의 코드에서는 padding 수정자가 clickable 수정자 뒤에 적용되었기 때문에 주변 패딩을 포함하여 전체 영역을 클릭할 수 있습니다. 수정자 순서가 뒤집히면 다음과 같이 padding으로 추가된 공간은 사용자 입력에 반응하지 않습니다.
 
 
@@ -61,6 +63,8 @@ fun ArtistCard(/*...*/) {
 ```
 
 ![](https://developer.android.com/static/images/jetpack/compose/layout-padding-not-clickable.gif?hl=ko)
+
+
 Modifier의 순서를 부여하기 위한 코드가 어떻게 구성되어 있는지 확인하기 위해 Modifier.padding 코드를 살펴보면 다음과 같습니다.
 
 ```kotlin
