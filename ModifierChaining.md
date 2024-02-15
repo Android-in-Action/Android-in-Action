@@ -216,7 +216,7 @@ Modifier를 조직하는 데 데이터 구조로서 체인이라는 용어를 �
 
 Modifier 함수 체인을 시각화하는 가장 좋은 방법은 외부와 내부 객체 래핑 및 이 래핑으로 형성된 연결점을 고려하는 것입니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1eaee41b-259b-44b2-863c-7426bbfb2402/b3634a12-1b58-4232-afe8-89217ddb02ca/Untitled.png)
+<img width="520" alt="image" src="https://github.com/Android-in-Action/AndroidRoadMap/assets/35673850/644c965a-c3c0-4f96-8763-7512c68ebc2b">
 
 ### **fold 방향을 기준으로 뷰 중첩 시각화**
 
@@ -224,7 +224,7 @@ Modifier 함수 체인을 시각화하는 가장 좋은 방법은 외부와 내�
 
 체이닝된 Modifier 살펴보는 또 다른 방법은 조합할 때, Modifier가 어떻게 적용되는지 시각화하는 것입니다. 조합의 방향은 가장 외부의 뷰에서 가장 내부의 뷰로 향합니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1eaee41b-259b-44b2-863c-7426bbfb2402/4b187aad-3902-41ba-90cb-9aac3f9b971f/Untitled.png)
+<img width="434" alt="image" src="https://github.com/Android-in-Action/AndroidRoadMap/assets/35673850/622f3e61-b648-48a0-991c-804ca23ad347">
 
 ```kotlin
 Modifier
